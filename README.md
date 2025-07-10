@@ -9,7 +9,7 @@ Stay tuned... dual screen flip handheld? Or something like that. Upgrades over t
 - Two USB-C ports for top and bottom (two VBUS channels, two USB 2.0) - may need an internal hub.
 - Better OEM buttons, like from the 3DS. Not sure what I'll do about the triggers, will have to work it out... soonTM. 
 - Better analog sticks (not switch sticks) - 3DS sliders?
-- Slightly thinner profile than Retro Lite (was a bit thick in the previous version
+- Slightly thinner profile than Retro Lite (was a bit thick in the previous version). Custom heatpipe plus finstack. 
 - Button for entering maskrom mode 
 - Two screens? Hell yeah!
-- Flips. Yeah, open the clam. 
+- Flips. Yeah, open the clam. 3DS hinges. 
